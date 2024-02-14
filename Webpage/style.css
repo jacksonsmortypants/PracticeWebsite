@@ -1,0 +1,17 @@
+@font-face {
+    font-family: papyrus;
+    src: url(papyrus.ttf);
+}
+body{
+    background-color: black;
+}
+h1{
+    color:red;
+}
+p {
+    color: red;
+    font-family: papyrus;
+}
+img{
+    width: 50px;
+}
